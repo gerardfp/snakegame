@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="210mm" height="297mm" id="svg2" version="1.1" inkscape:version="0.48.5 r10040" sodipodi:docname="Documento nuevo 1">
+  <defs id="defs4" />
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7" inkscape:cx="-36.916408" inkscape:cy="973.19291" inkscape:document-units="px" inkscape:current-layer="g3170" showgrid="false" objecttolerance="10000" inkscape:snap-bbox="false" inkscape:bbox-nodes="false" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-bbox-midpoints="false" inkscape:bbox-paths="false" inkscape:window-width="1858" inkscape:window-height="1057" inkscape:window-x="54" inkscape:window-y="-8" inkscape:window-maximized="1" />
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1">
+    <rect style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect3184" width="13.131983" height="30" x="164.65486" y="366.45715" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\apple.png" inkscape:export-xdpi="89.990265" inkscape:export-ydpi="89.990265" />
+    <rect style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect2985-1" width="200" height="200" x="234.9763" y="21.274933" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\body.png" inkscape:export-xdpi="87.5" inkscape:export-ydpi="87.5" />
+    <g id="g3170" transform="translate(53.538125,-232.8947)" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\head.png" inkscape:export-xdpi="87.5" inkscape:export-ydpi="87.5">
+      <path inkscape:connector-curvature="0" id="rect3084" d="m 442.54104,338.18671 0,32.3125 200,0 0,-32.3125 -200,0 z m 199.94667,0.0312 0,32.21875 -19.2,-16.125 19.2,-16.09375 z" style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\head.png" inkscape:export-xdpi="89.74984" inkscape:export-ydpi="89.74984" />
+      <g transform="matrix(0.82638891,0,0,0.97222225,77.940327,8.2822348)" id="g3077" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\head.png" inkscape:export-xdpi="89.74984" inkscape:export-ydpi="89.74984">
+        <path inkscape:connector-curvature="0" d="m 543.92858,255.04077 c 56.98286,0 102.85714,45.87429 102.85714,102.85714 0,56.98286 -45.87428,102.85714 -102.85714,102.85714 -56.98285,0 -102.85714,-45.87428 -102.85714,-102.85714 0,-56.98285 45.87429,-102.85714 102.85714,-102.85714 z m -102.76784,-0.0893 106.71933,0 0,205.71428 -106.71933,0 z" style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect2985-1-0-9" />
+      </g>
+      <g id="g3141" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\head.png" inkscape:export-xdpi="89.74984" inkscape:export-ydpi="89.74984">
+        <g id="g3133">
+          <path transform="matrix(0.89041096,0,0,0.89041096,172.11339,211.66547)" d="m 409.11178,106.35432 c 0,20.36305 -16.50752,36.87056 -36.87057,36.87056 -20.36305,0 -36.87057,-16.50751 -36.87057,-36.87056 0,-20.363055 16.50752,-36.870571 36.87057,-36.870571 20.36305,0 36.87057,16.507516 36.87057,36.870571 z" sodipodi:ry="36.870567" sodipodi:rx="36.870567" sodipodi:cy="106.35432" sodipodi:cx="372.24121" id="path3093" style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" sodipodi:type="arc" />
+          <path transform="translate(-3.0304847,170.71578)" d="m 539.42149,135.64874 c 0,10.87889 -8.81909,19.69798 -19.69798,19.69798 -10.87889,0 -19.69797,-8.81909 -19.69797,-19.69798 0,-10.87889 8.81908,-19.69797 19.69797,-19.69797 10.87889,0 19.69798,8.81908 19.69798,19.69797 z" sodipodi:ry="19.697975" sodipodi:rx="19.697975" sodipodi:cy="135.64874" sodipodi:cx="519.72351" id="path3113" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" sodipodi:type="arc" />
+        </g>
+        <g id="g3137" transform="translate(-5.55584,0)">
+          <path transform="matrix(0.89041096,0,0,0.89041096,177.66923,306.11474)" d="m 409.11178,106.35432 c 0,20.36305 -16.50752,36.87056 -36.87057,36.87056 -20.36305,0 -36.87057,-16.50751 -36.87057,-36.87056 0,-20.363055 16.50752,-36.870571 36.87057,-36.870571 20.36305,0 36.87057,16.507516 36.87057,36.870571 z" sodipodi:ry="36.870567" sodipodi:rx="36.870567" sodipodi:cy="106.35432" sodipodi:cx="372.24121" id="path3093-4" style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" sodipodi:type="arc" />
+          <path transform="translate(2.5253553,265.16505)" d="m 539.42149,135.64874 c 0,10.87889 -8.81909,19.69798 -19.69798,19.69798 -10.87889,0 -19.69797,-8.81909 -19.69797,-19.69798 0,-10.87889 8.81908,-19.69797 19.69797,-19.69797 10.87889,0 19.69798,8.81908 19.69798,19.69797 z" sodipodi:ry="19.697975" sodipodi:rx="19.697975" sodipodi:cy="135.64874" sodipodi:cx="519.72351" id="path3113-8" style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g id="g3077-8" transform="matrix(-0.97222225,0,0,-0.97222225,644.15018,469.18908)" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\tail.png" inkscape:export-xdpi="87.5" inkscape:export-ydpi="87.5">
+      <path id="rect2985-1-0-9-2" style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 543.92858,255.04077 c 56.98286,0 102.85714,45.87429 102.85714,102.85714 0,56.98286 -45.87428,102.85714 -102.85714,102.85714 -56.98285,0 -102.85714,-45.87428 -102.85714,-102.85714 0,-56.98285 45.87429,-102.85714 102.85714,-102.85714 z m -102.76784,-0.0893 106.71933,0 0,205.71428 -106.71933,0 z" inkscape:connector-curvature="0" />
+    </g>
+    <path sodipodi:type="arc" style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path3182" sodipodi:cx="168.1904" sodipodi:cy="422.53207" sodipodi:rx="89.398499" sodipodi:ry="85.357887" d="m 257.5889,422.53207 a 89.398499,85.357887 0 1 1 -178.796999,0 89.398499,85.357887 0 1 1 178.796999,0 z" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\apple.png" inkscape:export-xdpi="89.990265" inkscape:export-ydpi="89.990265" transform="matrix(1.118587,0,0,0.99580722,-16.414765,60.71831)" />
+    <path sodipodi:type="arc" style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path3186" sodipodi:cx="-277.79196" sodipodi:cy="461.92801" sodipodi:rx="46.467018" sodipodi:ry="19.697975" d="m -231.32494,461.92801 a 46.467018,19.697975 0 1 1 -92.93404,0 46.467018,19.697975 0 1 1 92.93404,0 z" transform="matrix(0.58486536,0,0,0.52135228,301.16383,142.66694)" inkscape:export-filename="C:\Users\gerard\Desktop\snakegame\core\assets\apple.png" inkscape:export-xdpi="89.990265" inkscape:export-ydpi="89.990265" />
+  </g>
+</svg>
